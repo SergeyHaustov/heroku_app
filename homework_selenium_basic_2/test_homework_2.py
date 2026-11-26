@@ -3,7 +3,6 @@ from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 
-from conftest import browser
 
 
 @pytest.mark.basic
